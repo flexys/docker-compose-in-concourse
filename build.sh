@@ -9,5 +9,5 @@ cd test
 
 # ls -lah
 # which docker-compose
-docker demon &
+docker daemon &
 docker-compose up
