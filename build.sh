@@ -9,5 +9,8 @@ cd test
 
 # ls -lah
 # which docker-compose
-docker daemon &
+source /docker-lib.#!/bin/sh
+
+start_docker
+
 docker-compose up
