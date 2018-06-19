@@ -5,6 +5,8 @@ set -e -x
 # pwd
 # ls -lah
 
+whoami
+
 cd test
 
 # ls -lah
