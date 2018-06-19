@@ -13,5 +13,6 @@ jobs:
   public: true
   plan:
   - get: test
+    trigger: true
   - task: build
     file: test/build.yaml
