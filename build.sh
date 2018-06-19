@@ -2,12 +2,12 @@
 
 set -e -x
 
-pwd
-ls -lah
+# pwd
+# ls -lah
 
 cd test
 
-ls -lah
-which docker-compose
+# ls -lah
+# which docker-compose
 
-# docker compose up
+docker compose up
