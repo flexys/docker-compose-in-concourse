@@ -9,7 +9,7 @@ cd test
 
 # ls -lah
 # which docker-compose
-source /docker-lib.#!/bin/sh
+source /docker-lib.sh
 
 start_docker
 
