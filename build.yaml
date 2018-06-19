@@ -5,6 +5,7 @@ image_resource:
   type: docker-image
   source:
     repository: w32blaster/dcind
+  privileded: true
 
 inputs:
 - name: test
