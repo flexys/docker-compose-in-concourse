@@ -8,5 +8,6 @@ ls -lah
 cd test
 
 ls -lah
+which docker-compose
 
-docker compose up
+# docker compose up
