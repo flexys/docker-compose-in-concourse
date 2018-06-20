@@ -4,7 +4,7 @@ platform: linux
 image_resource:
   type: docker-image
   source:
-    repository: w32blaster/dcind
+    repository: mbcx4jrh/dcind
 
 inputs:
 - name: test
