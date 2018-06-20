@@ -4,7 +4,7 @@ platform: linux
 image_resource:
   type: docker-image
   source:
-    repository: mbcx4jrh/dcind
+    repository: joeheath/dcind
 
 inputs:
 - name: test
