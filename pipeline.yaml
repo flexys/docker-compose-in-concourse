@@ -3,7 +3,7 @@ resources:
 - name: test
   type: git
   source:
-    uri: https://github.com/mbcx4jrh/test.git
+    uri: https://github.com/flexys/docker-compose-in-concourse.git
     branch: master
 
 
