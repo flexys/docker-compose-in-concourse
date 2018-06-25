@@ -12,7 +12,7 @@ jobs:
 - name: docker-compose-test
   public: true
   plan:
-  - get: test
+  - get: repo
     trigger: true
   - task: build
     privileged: true
