@@ -16,4 +16,4 @@ jobs:
     trigger: true
   - task: build
     privileged: true
-    file: test/build.yaml
+    file: repo/build.yaml
