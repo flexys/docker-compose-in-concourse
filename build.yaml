@@ -7,8 +7,8 @@ image_resource:
     repository: flexys/dcind
 
 inputs:
-- name: test
+- name: repo
 
 
 run:
-  path: test/build.sh
+  path: repo/build.sh
