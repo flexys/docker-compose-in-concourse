@@ -1,6 +1,6 @@
 ---
 resources:
-- name: test
+- name: repo
   type: git
   source:
     uri: https://github.com/flexys/docker-compose-in-concourse.git
