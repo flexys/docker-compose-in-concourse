@@ -7,7 +7,7 @@ set -e -x
 
 whoami
 
-cd test
+cd repo
 
 # ls -lah
 # which docker-compose
